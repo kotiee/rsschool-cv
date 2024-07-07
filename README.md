@@ -1,1 +1,1 @@
-[# rsschool-cv](https://kotiee.github.io/rsschool-cv/cv)
+https://kotiee.github.io/rsschool-cv/
